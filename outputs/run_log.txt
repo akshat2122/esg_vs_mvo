@@ -1,0 +1,16 @@
+=== ESG vs. MVO backtest run: 2026-09-26T04:27:21.750786 ===
+Universe size (candidates): 28
+Lookback: 5y | In-sample: 4y | Out-of-sample: 1y
+Risk-free rate: 3.00% | Cov method: ledoit_wolf
+Eligible names after screening: 28/28
+Portfolio B universe: 21/28 names (dropped bottom-quartile ESG risk + any still-missing scores): ['ACA.PA', 'AIR.PA', 'BNP.PA', 'GLE.PA', 'ML.PA', 'RNO.PA', 'SGO.PA']
+
+=== Out-of-sample performance ===
+       period                           line cumulative_return annualized_return annualized_volatility  sharpe_ratio  sortino_ratio max_drawdown  calmar_ratio
+Out-of-Sample              Portfolio A (MVO)            10.34%            10.22%                15.13%          0.52           0.76      -11.77%          0.87
+Out-of-Sample Portfolio B (ESG-screened MVO)             5.79%             5.72%                14.06%          0.25           0.37      -11.07%          0.52
+Out-of-Sample                   Equal-Weight             5.44%             5.37%                14.69%          0.23           0.35       -12.5%          0.43
+Out-of-Sample         Cap-Weighted Benchmark             3.24%             3.21%                13.93%          0.08           0.12      -11.08%          0.29
+
+Date window: 2021-09-27 -> 2026-09-24
+All outputs written to ./outputs/

@@ -1,0 +1,10 @@
+| period        | line                           | cumulative_return   | annualized_return   | annualized_volatility   |   sharpe_ratio |   sortino_ratio | max_drawdown   |   calmar_ratio |
+|:--------------|:-------------------------------|:--------------------|:--------------------|:------------------------|---------------:|----------------:|:---------------|---------------:|
+| In-Sample     | Portfolio A (MVO)              | 116.27%             | 20.9%               | 15.43%                  |           1.11 |            1.4  | -16.33%        |           1.28 |
+| In-Sample     | Portfolio B (ESG-screened MVO) | 103.86%             | 19.16%              | 14.25%                  |           1.09 |            1.43 | -12.86%        |           1.49 |
+| In-Sample     | Equal-Weight                   | 42.51%              | 9.11%               | 17.41%                  |           0.42 |            0.58 | -22.88%        |           0.4  |
+| In-Sample     | Cap-Weighted Benchmark         | 20.3%               | 4.65%               | 16.84%                  |           0.18 |            0.24 | -23.04%        |           0.2  |
+| Out-of-Sample | Portfolio A (MVO)              | 10.34%              | 10.22%              | 15.13%                  |           0.52 |            0.76 | -11.77%        |           0.87 |
+| Out-of-Sample | Portfolio B (ESG-screened MVO) | 5.79%               | 5.72%               | 14.06%                  |           0.25 |            0.37 | -11.07%        |           0.52 |
+| Out-of-Sample | Equal-Weight                   | 5.44%               | 5.37%               | 14.69%                  |           0.23 |            0.35 | -12.5%         |           0.43 |
+| Out-of-Sample | Cap-Weighted Benchmark         | 3.24%               | 3.21%               | 13.93%                  |           0.08 |            0.12 | -11.08%        |           0.29 |

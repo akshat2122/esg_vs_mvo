@@ -1,0 +1,29 @@
+ticker,sector,esg_score,status,reason,source
+MC.PA,Consumer Discretionary,22.4,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER - yfinance sustainability endpoint returned empty for all tickers at run time (Yahoo appears to have retired it). Replace with a licensed feed (Sustainalytics/MSCI/Refinitiv) for real use.
+RMS.PA,Consumer Discretionary,19.8,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+KER.PA,Consumer Discretionary,24.1,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+RNO.PA,Consumer Discretionary,29.6,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+OR.PA,Consumer Staples,17.5,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+BN.PA,Consumer Staples,18.9,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+RI.PA,Consumer Staples,21.3,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+BNP.PA,Financials,28.7,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+GLE.PA,Financials,30.2,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+ACA.PA,Financials,27.9,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+CS.PA,Financials,26.4,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+AMUN.PA,Financials,25.1,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+AIR.PA,Industrials,31.5,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+SAF.PA,Industrials,27.8,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+SU.PA,Industrials,16.2,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+LR.PA,Industrials,15.9,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+VIE.PA,Industrials,23.6,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+SGO.PA,Materials,29.3,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+AI.PA,Materials,20.7,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+ML.PA,Materials,32.1,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+SAN.PA,Health Care,19.4,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+EL.PA,Health Care,14.8,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+IPN.PA,Health Care,20.5,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+CAP.PA,Information Technology,13.2,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+DSY.PA,Information Technology,12.6,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+STMPA.PA,Information Technology,16.8,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+PUB.PA,Communication Services,22.9,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
+ORA.PA,Communication Services,24.7,manual_override,filled from data/esg_manual.csv,ILLUSTRATIVE PLACEHOLDER
